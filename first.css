@@ -1,0 +1,15 @@
+body{
+   width: 500px;
+   margin: auto;
+   background: #D3D3D3;
+}
+.hai{
+
+ width: 300px;
+ border: 2px;
+ border-style: solid;
+ border-color: white;
+ padding: 25px;
+ margin: 10px;
+
+}
